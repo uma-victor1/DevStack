@@ -1,6 +1,7 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  "files.autoSaveDelay": 3000,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
     "source.addMissingImports": true
