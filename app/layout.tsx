@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "DevStack",
-  description: "Stackoverflow alternative for developers",
+  description: "Stackoverflow alternative for developerss",
 };
 
 export default function RootLayout({
